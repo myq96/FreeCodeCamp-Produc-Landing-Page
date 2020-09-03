@@ -251,6 +251,12 @@ footer a {
     padding: 1rem 1rem;
   }
 
+  .message-box h1 {
+    font-size: 1.3rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+
   #email {
     width: 70%;
     padding: 0.4rem;
